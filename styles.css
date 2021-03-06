@@ -21,7 +21,7 @@ img {
 }
 
 footer {
-  margin-top: 3%;
+  margin-top: 2%;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
@@ -53,6 +53,7 @@ footer {
   background: #12e053;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
+  margin: 5px 30px;
 }
 
 .btn:hover {
